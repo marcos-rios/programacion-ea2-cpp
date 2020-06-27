@@ -24,7 +24,7 @@ int main()
     cout << "esperado 1x1x1-Incoloro - pri0:" << pri0 << endl;
     cout << "esperado 4x3x2-Azul - pri1:" << pri1 << endl;
     cout << "esperado 7x7x7-Verde - pri2:" << pri2 << endl;
-    cout << "esperado 15x10x0-Azul - pri3:" << pri3 << endl;
+    cout << "esperado 15x10x5-Azul - pri3:" << pri3 << endl;
 
     return 0;
 }
